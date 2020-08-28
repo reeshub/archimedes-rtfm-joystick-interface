@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-03-24T23:49:06Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "RTFM"
+        },
+        "Owner": "Darren Shepherd <stuff@dshepherd.co.uk>",
+        "Size": {
+            "X": 82.54,
+            "Y": 52.54
+        }
+    }
+}
