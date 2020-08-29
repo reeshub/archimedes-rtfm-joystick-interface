@@ -14,7 +14,7 @@ The RTFM was a commercially available product, however [Darren Shepherd](http://
 
 ![RTFM Interface Installed In A3000](Darren%20Shepherd/Images/IMG_7692.JPG)
 
-Pictured above: Darren's RTFM clone fitted to his Archimedes A3000. Note that he has interfaced it with the internal 9-pin port (details hopefully to follow).
+Pictured above: Darren's RTFM clone fitted to his Archimedes A3000. Note that he has interfaced it with the internal 9-pin port [using a modified version of this interface](http://qubeserver.com/qube/projects/a3000joyport.html).
 
 For now, I'll include Darren's CAD files below. These are designed for use with [Autodesk Eagle](https://www.autodesk.com/products/eagle/overview) and are compatible with the free version.
 
